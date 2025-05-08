@@ -9,6 +9,8 @@ Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda2;->run()V,core-pl
 Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda3;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda4;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda5;->run()V,core-platform-api,public-api,system-api,test-api
+Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda6;->run()V,core-platform-api,public-api,system-api,test-api
+Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda7;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$1$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$2$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$3$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
@@ -17,6 +19,8 @@ Landroid/devicelock/DeviceLockManager$4$$ExternalSyntheticLambda0;->run()V,core-
 Landroid/devicelock/DeviceLockManager$5$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$5$$ExternalSyntheticLambda1;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$6$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
+Landroid/devicelock/DeviceLockManager$7$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
+Landroid/devicelock/DeviceLockManager$8$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager;->DEVICE_LOCK_ROLE_FINANCING:I,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager;->getDeviceId(Ljava/util/concurrent/Executor;Landroid/os/OutcomeReceiver;)V,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager;->getKioskApps(Ljava/util/concurrent/Executor;Landroid/os/OutcomeReceiver;)V,public-api,system-api,test-api
@@ -31,6 +35,10 @@ Landroid/devicelock/IGetDeviceIdCallback$Default;->asBinder()Landroid/os/IBinder
 Landroid/devicelock/IGetDeviceIdCallback$Stub$Proxy;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
 Landroid/devicelock/IGetDeviceIdCallback$Stub;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
 Landroid/devicelock/IGetDeviceIdCallback$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z,public-api,system-api,test-api
+Landroid/devicelock/IGetEnrollmentTypeCallback$Default;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
+Landroid/devicelock/IGetEnrollmentTypeCallback$Stub$Proxy;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
+Landroid/devicelock/IGetEnrollmentTypeCallback$Stub;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
+Landroid/devicelock/IGetEnrollmentTypeCallback$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z,public-api,system-api,test-api
 Landroid/devicelock/IGetKioskAppsCallback$Default;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
 Landroid/devicelock/IGetKioskAppsCallback$Stub$Proxy;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
 Landroid/devicelock/IGetKioskAppsCallback$Stub;->asBinder()Landroid/os/IBinder;,public-api,system-api,test-api
@@ -48,3 +56,7 @@ Landroid/devicelock/ParcelableException$1;->newArray(I)[Ljava/lang/Object;,publi
 Landroid/devicelock/ParcelableException;->describeContents()I,public-api,system-api,test-api
 Landroid/devicelock/ParcelableException;->writeToParcel(Landroid/os/Parcel;I)V,public-api,system-api,test-api
 Lcom/android/devicelock/flags/CustomFeatureFlags$$ExternalSyntheticLambda0;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,system-api,test-api
+Lcom/android/devicelock/flags/CustomFeatureFlags$$ExternalSyntheticLambda1;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,system-api,test-api
+Lcom/android/devicelock/flags/CustomFeatureFlags$$ExternalSyntheticLambda2;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,system-api,test-api
+Lcom/android/devicelock/flags/CustomFeatureFlags$$ExternalSyntheticLambda3;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,system-api,test-api
+Lcom/android/devicelock/flags/CustomFeatureFlags$$ExternalSyntheticLambda4;->test(Ljava/lang/Object;)Z,core-platform-api,public-api,system-api,test-api
