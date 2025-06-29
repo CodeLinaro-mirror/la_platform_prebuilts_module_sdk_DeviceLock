@@ -3,14 +3,6 @@ Landroid/devicelock/DeviceId;->DEVICE_ID_TYPE_MEID:I,public-api,system-api,test-
 Landroid/devicelock/DeviceId;->getId()Ljava/lang/String;,public-api,system-api,test-api
 Landroid/devicelock/DeviceId;->getType()I,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockFrameworkInitializer$$ExternalSyntheticLambda0;->createService(Landroid/content/Context;Landroid/os/IBinder;)Ljava/lang/Object;,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda1;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda2;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda3;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda4;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda5;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda6;->run()V,core-platform-api,public-api,system-api,test-api
-Landroid/devicelock/DeviceLockManager$$ExternalSyntheticLambda7;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$1$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$2$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
 Landroid/devicelock/DeviceLockManager$3$$ExternalSyntheticLambda0;->run()V,core-platform-api,public-api,system-api,test-api
